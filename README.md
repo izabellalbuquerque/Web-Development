@@ -39,7 +39,7 @@ While the front-end deals with what users see, the back-end refers to the part o
 - **Java (with Spring)**: Frequently used in large-scale systems.
 - **PHP (with Laravel)**: A traditional language in the back-end, with one of the most used frameworks.
 
-## How Front-end and Backend Work Together
+## How Front-end and Back-end Work Together
 
 Although front-end and back-end are distinct areas, they need to work together to ensure the complete functionality of a web application. The front-end sends requests to the back-end, which processes the data and returns responses.
 
